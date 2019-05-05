@@ -1,5 +1,5 @@
 # GameDevPractice
-홍정모의 게임 만들기 연습 문제 패키지
+홍정모의 게임 만들기 연습 문제 패키지를 수강하며 연습
 
 *Vcpkg를 이용해서 opengl, glew, glfw3 설치 후 사용
 
